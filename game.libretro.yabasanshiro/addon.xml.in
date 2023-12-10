@@ -23,7 +23,20 @@
 		<assets>
 			<icon>resources/icon.png</icon>
 		</assets>
+		<summary lang="da_DK">Sega - Saturn (Yabause)</summary>
 		<summary lang="en_GB">Sega - Saturn (YabaSanshiro)</summary>
+		<summary lang="es_ES">Sega - Saturn (Yabause)</summary>
+		<summary lang="zh_CN">世嘉 - Saturn (Yabause)</summary>
+		<description lang="da_DK">Yabause står for Yet Another Buggy And Uncomplete Saturn Emulator. Yabause kan starte Sega Saturn bios og spil, hvoraf nogle kan spilles.</description>
+		<description lang="de_DE">Yabause steht für Yet Another Buggy And Uncomplete Saturn Emulator. Yabause kann Sega Saturn-Bios und Spiele booten, von denen einige spielbar sind.</description>
 		<description lang="en_GB">Yaba Sanshiro, also known as uoYabause, is a free and open-source Sega Saturn emulator based on Yabause.</description>
+		<description lang="es_ES">Yabause son las siglas de Yet Another Buggy And Uncomplete Saturn Emulator. Yabause puede arrancar bios y juegos de Sega Saturn, algunos de los cuales son jugables.</description>
+		<description lang="zh_CN">Yabause 代表另一个有程序缺陷未完成的土星模拟器。Yabause 可以引导世嘉土星 bios 和游戏，其中一些是可玩的。</description>
+		<disclaimer lang="da_DK">Billedkreditering: Anarkhya (anarkhya.deviantart.com)</disclaimer>
+		<disclaimer lang="de_DE">Symbolnachweis: Anarkhya (anarkhya.deviantart.com)</disclaimer>
+		<disclaimer lang="es_ES">Crédito del icono: Anarkhya (anarkhya.deviantart.com)</disclaimer>
+		<disclaimer lang="it_IT">Credito icona: Anarkhya (anarkhya.deviantart.com)</disclaimer>
+		<disclaimer lang="ko_KR">아이콘 크레딧: Anarkhya(anarkhya.deviantart.com)</disclaimer>
+		<disclaimer lang="zh_CN">图标来源：Anarkhya（anarkhya.deviantart.com）</disclaimer>
 	</extension>
 </addon>

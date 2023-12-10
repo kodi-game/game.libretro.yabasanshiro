@@ -17,15 +17,11 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=n==1 || n%10==1 ? 0 : 1;\n"
 
 msgctxt "Addon Summary"
-msgid "Sega - Saturn (Yabause)"
+msgid "Sega - Saturn (YabaSanshiro)"
 msgstr ""
 
 msgctxt "Addon Description"
-msgid "Yabause stands for Yet Another Buggy And Uncomplete Saturn Emulator. Yabause can boot Sega Saturn bios and games, some of which are playable."
-msgstr ""
-
-msgctxt "Addon Disclaimer"
-msgid "Icon credit: Anarkhya (anarkhya.deviantart.com)"
+msgid "Yaba Sanshiro, also known as uoYabause, is a free and open-source Sega Saturn emulator based on Yabause."
 msgstr ""
 
 msgctxt "#30000"
