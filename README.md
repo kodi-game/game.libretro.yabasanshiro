@@ -18,4 +18,4 @@ Help make me fanart!
 
 ### Screenshots
 
-Help make me screenshots!
+![Sega - Saturn (YabaSanshiro) screenshot](game.libretro.yabasanshiro/resources/screenshot-01.jpg)

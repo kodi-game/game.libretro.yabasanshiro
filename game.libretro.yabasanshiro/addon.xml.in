@@ -22,6 +22,7 @@
 		<source>https://github.com/kodi-game/game.libretro.yabasanshiro</source>
 		<assets>
 			<icon>resources/icon.png</icon>
+			<screenshot>resources/screenshot-01.jpg</screenshot>
 		</assets>
 		<summary lang="en_GB">Sega - Saturn (YabaSanshiro)</summary>
 		<description lang="en_GB">Yaba Sanshiro, also known as uoYabause, is a free and open-source Sega Saturn emulator based on Yabause.</description>
