@@ -1,10 +1,10 @@
-# game.libretro.yabause language file
-# Addon Name: game.libretro.yabause
-# Addon id: game.libretro.yabause
+# game.libretro.yabasanshiro language file
+# Addon Name: game.libretro.yabasanshiro
+# Addon id: game.libretro.yabasanshiro
 # Addon Provider: libretro
 msgid ""
 msgstr ""
-"Project-Id-Version: game.libretro.yabause\n"
+"Project-Id-Version: game.libretro.yabasanshiro\n"
 "Report-Msgid-Bugs-To: translations@kodi.tv\n"
 "POT-Creation-Date: 2017-02-04 09:56i\n"
 "PO-Revision-Date: 2017-02-04 09:56i\n"
@@ -17,31 +17,15 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 msgctxt "Addon Summary"
-msgid "Sega - Saturn (Yabause)"
+msgid "Sega - Saturn (YabaSanshiro)"
 msgstr ""
 
 msgctxt "Addon Description"
 msgid "Yaba Sanshiro, also known as uoYabause, is a free and open-source Sega Saturn emulator based on Yabause."
 msgstr ""
 
-msgctxt "Addon Disclaimer"
-msgid "Icon credit: Anarkhya (anarkhya.deviantart.com)"
-msgstr ""
-
 msgctxt "#30000"
 msgid "Settings"
-msgstr ""
-
-msgctxt "#30001"
-msgid "Frameskip"
-msgstr ""
-
-msgctxt "#30002"
-msgid "Force HLE BIOS (Restart Required)"
-msgstr ""
-
-msgctxt "#30003"
-msgid "Add-on Cartridge (Restart Required)"
 msgstr ""
 
 msgctxt "#30004"
@@ -52,6 +36,34 @@ msgctxt "#30005"
 msgid "6Player Adaptor on Port 2"
 msgstr ""
 
-msgctxt "#30006"
-msgid "Number of Threads (Restart Required)"
+msgctxt "#30007"
+msgid "Force HLE BIOS (restart)"
+msgstr ""
+
+msgctxt "#30008"
+msgid "Auto-frameskip"
+msgstr ""
+
+msgctxt "#30009"
+msgid "Addon Cartridge (restart)"
+msgstr ""
+
+msgctxt "#30010"
+msgid "System Language (restart)"
+msgstr ""
+
+msgctxt "#30011"
+msgid "Polygon Mode (restart)"
+msgstr ""
+
+msgctxt "#30012"
+msgid "Resolution Mode (restart)"
+msgstr ""
+
+msgctxt "#30013"
+msgid "RGB resolution mode"
+msgstr ""
+
+msgctxt "#30014"
+msgid "RGB use compute shader for RGB"
 msgstr ""

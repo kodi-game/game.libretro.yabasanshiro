@@ -1,1 +1,1 @@
-yabause https://github.com/libretro/yabause/archive/4c96b96f7fbe07223627c469ff33376b2a634748.tar.gz
+yabasanshiro https://github.com/libretro/yabause/archive/7513c8459034a0fe415d3cae4d692a54d0f90296.tar.gz

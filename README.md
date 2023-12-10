@@ -1,8 +1,8 @@
-# Sega - Saturn (Yabause)
+# Sega - Saturn (YabaSanshiro)
 
 ### Description
 
-Yabause stands for Yet Another Buggy And Uncomplete Saturn Emulator. Yabause can boot Sega Saturn bios and games, some of which are playable.
+Yaba Sanshiro, also known as uoYabause, is a free and open-source Sega Saturn emulator based on Yabause.
 
 ### License
 
@@ -10,7 +10,7 @@ GPLv2
 
 ### Icon
 
-![Sega - Saturn (Yabause) icon](game.libretro.yabause/resources/icon.png)
+![Sega - Saturn (YabaSanshiro) icon](game.libretro.yabasanshiro/resources/icon.png)
 
 ### Fanart
 
@@ -19,7 +19,3 @@ Help make me fanart!
 ### Screenshots
 
 Help make me screenshots!
-
-### Disclaimer
-
-*Icon credit: Anarkhya (anarkhya.deviantart.com)*

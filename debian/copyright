@@ -1,6 +1,6 @@
 Format: http://dep.debian.net/deps/dep5
-Upstream-Name: game.libretro.yabause
-Source: https://github.com/kodi-game/game.libretro.yabause
+Upstream-Name: game.libretro.yabasanshiro
+Source: https://github.com/kodi-game/game.libretro.yabasanshiro
 
 Files: *
 Copyright: 2005-2019 Team Kodi
