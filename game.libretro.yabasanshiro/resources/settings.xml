@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <settings>
 	<category label="30000">
-		<setting label="30007" type="select" id="yabasanshiro_force_hle_bios" values="disabled|enabled" default="disabled"/>
-		<setting label="30008" type="select" id="yabasanshiro_frameskip" values="enabled|disabled" default="enabled"/>
-		<setting label="30009" type="select" id="yabasanshiro_addon_cart" values="4M_extended_ram|1M_extended_ram" default="4M_extended_ram"/>
-		<setting label="30010" type="select" id="yabasanshiro_system_language" values="english|deutsch|french|spanish|italian|japanese" default="english"/>
-		<setting label="30004" type="select" id="yabasanshiro_multitap_port1" values="disabled|enabled" default="disabled"/>
-		<setting label="30005" type="select" id="yabasanshiro_multitap_port2" values="disabled|enabled" default="disabled"/>
-		<setting label="30011" type="select" id="yabasanshiro_polygon_mode" values="perspective_correction|gpu_tesselation|cpu_tesselation" default="perspective_correction"/>
-		<setting label="30012" type="select" id="yabasanshiro_resolution_mode" values="original|2x|4x|720p|1080p|4k" default="original"/>
-		<setting label="30013" type="select" id="yabasanshiro_rbg_resolution_mode" values="original|2x|720p|1080p|Fit_to_emulation" default="original"/>
-		<setting label="30014" type="select" id="yabasanshiro_rbg_use_compute_shader" values="disabled|enabled" default="disabled"/>
+		<setting label="30001" type="select" id="yabasanshiro_force_hle_bios" values="disabled|enabled" default="disabled"/>
+		<setting label="30002" type="select" id="yabasanshiro_frameskip" values="enabled|disabled" default="enabled"/>
+		<setting label="30003" type="select" id="yabasanshiro_addon_cart" values="4M_extended_ram|1M_extended_ram" default="4M_extended_ram"/>
+		<setting label="30004" type="select" id="yabasanshiro_system_language" values="english|deutsch|french|spanish|italian|japanese" default="english"/>
+		<setting label="30005" type="select" id="yabasanshiro_multitap_port1" values="disabled|enabled" default="disabled"/>
+		<setting label="30006" type="select" id="yabasanshiro_multitap_port2" values="disabled|enabled" default="disabled"/>
+		<setting label="30007" type="select" id="yabasanshiro_polygon_mode" values="perspective_correction|gpu_tesselation|cpu_tesselation" default="perspective_correction"/>
+		<setting label="30008" type="select" id="yabasanshiro_resolution_mode" values="original|2x|4x|720p|1080p|4k" default="original"/>
+		<setting label="30009" type="select" id="yabasanshiro_rbg_resolution_mode" values="original|2x|720p|1080p|Fit_to_emulation" default="original"/>
+		<setting label="30010" type="select" id="yabasanshiro_rbg_use_compute_shader" values="disabled|enabled" default="disabled"/>
 	</category>
 </settings>
