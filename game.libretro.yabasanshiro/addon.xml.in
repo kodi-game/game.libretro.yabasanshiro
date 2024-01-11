@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addon id="game.libretro.yabasanshiro"
 		name="Sega - Saturn (YabaSanshiro)"
-		version="3.4.2.1"
+		version="3.4.2.2"
 		provider-name="Guillaume Duhammel, Theo Berkau, Anders Montonen, devmiyax">
 	<requires>
 		<import addon="game.libretro" version="1.0.0"/>
