@@ -25,6 +25,6 @@
 			<screenshot>resources/screenshot-01.jpg</screenshot>
 		</assets>
 		<summary lang="en_GB">Sega - Saturn (YabaSanshiro)</summary>
-		<description lang="en_GB">Yaba Sanshiro, also known as uoYabause, is a free and open-source Sega Saturn emulator based on Yabause.</description>
+		<description lang="en_GB">Yaba Sanshiro, also known as uoYabause, is a free and open-source Sega Saturn emulator based on Yabause.[CR][CR]This core is less accurate than Beetle-Saturn, but runs much faster and at higher resolution.</description>
 	</extension>
 </addon>
