@@ -21,7 +21,7 @@ msgid "Sega - Saturn (YabaSanshiro)"
 msgstr ""
 
 msgctxt "Addon Description"
-msgid "Yaba Sanshiro, also known as uoYabause, is a free and open-source Sega Saturn emulator based on Yabause."
+msgid "Yaba Sanshiro, also known as uoYabause, is a free and open-source Sega Saturn emulator based on Yabause.[CR][CR]This core is less accurate than Beetle-Saturn, but runs much faster and at higher resolution."
 msgstr ""
 
 # Empty string with ID 30000
