@@ -6,9 +6,9 @@
     <accepts controller="game.controller.saturn.3d.western"/>
     <accepts controller="game.controller.saturn.multitap">
       <port id="1">
-        <accepts controller="game.controller.saturn" type="RETRO_DEVICE_JOYPAD" subclass="0"/>
-        <accepts controller="game.controller.saturn.3d.japan" type="RETRO_DEVICE_ANALOG" subclass="0"/>
-        <accepts controller="game.controller.saturn.3d.western" type="RETRO_DEVICE_ANALOG" subclass="0"/>
+        <accepts controller="game.controller.saturn"/>
+        <accepts controller="game.controller.saturn.3d.japan"/>
+        <accepts controller="game.controller.saturn.3d.western"/>
       </port>
       <port id="2">
         <accepts controller="game.controller.saturn"/>
@@ -43,9 +43,9 @@
     <accepts controller="game.controller.saturn.3d.western"/>
     <accepts controller="game.controller.saturn.multitap">
       <port id="1">
-        <accepts controller="game.controller.saturn" type="RETRO_DEVICE_JOYPAD" subclass="0"/>
-        <accepts controller="game.controller.saturn.3d.japan" type="RETRO_DEVICE_ANALOG" subclass="0"/>
-        <accepts controller="game.controller.saturn.3d.western" type="RETRO_DEVICE_ANALOG" subclass="0"/>
+        <accepts controller="game.controller.saturn"/>
+        <accepts controller="game.controller.saturn.3d.japan"/>
+        <accepts controller="game.controller.saturn.3d.western"/>
       </port>
       <port id="2">
         <accepts controller="game.controller.saturn"/>
