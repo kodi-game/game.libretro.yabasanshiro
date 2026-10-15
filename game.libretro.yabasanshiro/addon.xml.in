@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addon id="game.libretro.yabasanshiro"
 		name="Sega - Saturn (YabaSanshiro)"
-		version="3.4.2.18"
+		version="3.4.2.19"
 		provider-name="Guillaume Duhammel, Theo Berkau, Anders Montonen, devmiyax">
 	<requires>
 		<import addon="game.libretro" version="1.0.0"/>
@@ -17,7 +17,7 @@
 		<supports_vfs>false</supports_vfs>
 		<supports_standalone>false</supports_standalone>
 		<supports_disc_control>false</supports_disc_control>
-		<requires_opengl>true</requires_opengl>
+		<libretro_core>yabasanshiro_libretro</libretro_core>
 	</extension>
 	<extension point="xbmc.addon.metadata">
 		<license>GPLv2</license>
